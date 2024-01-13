@@ -1,0 +1,1 @@
+FragmaMetrics is licensed under the General Public License v3.0, Copyright (c) 2024 Akashnil Deb, Amir Sohel Sarkar Masum, Disha Bhattacharjee, Hemchand Kumar Mahato, Sarnadip Panja, Somdipto Chakraborty
